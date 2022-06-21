@@ -1,0 +1,32 @@
+body{
+    background-color: #787878;
+}
+
+
+.biography {
+  font-family: fantasy;
+  font-size: 20px;
+  font-style: italic;
+  width: 60%;
+  display: inline-block;
+  text-align: left;
+}
+
+.biography p {
+    color:white;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+
+.biography h1 {
+    color: white;
+    font-family: "Great Vibes",cursive;
+   
+}
+
+
+
+#input{
+    background-color: black;
+    margin: 100px;
+}

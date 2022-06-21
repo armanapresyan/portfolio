@@ -1,0 +1,18 @@
+body{
+    background-color: #787878;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+}
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+
+.li{
+    color: white;
+    font-family: "Great Vibes",cursive;
+    font-size: 40px;
+}
+
+ ol li a {
+    color: white;
+    text-decoration-line: none;
+}
