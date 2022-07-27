@@ -18,6 +18,7 @@
   }
   
   #adiv {
+    background-attachment: fixed;
     color: white;
     position: absolute;
     right: 0;
