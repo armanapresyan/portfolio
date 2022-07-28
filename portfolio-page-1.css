@@ -1,7 +1,6 @@
-body{
-    background-color: #787878;
+body {
+  background-color: #787878;
 }
-
 
 .biography {
   font-family: fantasy;
@@ -13,53 +12,45 @@ body{
 }
 
 .biography p {
-    color:white;
+  color: white;
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
 
 .biography h1 {
-    color: white;
-    font-family: "Great Vibes",cursive;
-   
+  color: white;
+  font-family: "Great Vibes", cursive;
 }
 
-
-
-#input{
-    background-color: black;
-    margin: 100px;
+#input {
+  background-color: black;
+  margin: 100px;
 }
 
+nav {
+  position: sticky;
+  top: 0;
+}
 
-nav{
-    position: sticky;
-    top: 0;
-  }
-  
- 
-  
-  #menu {
-    height: 100px;
-   
-  
-  }
-  
-  #adiv {
-    background-attachment: fixed;
-    color: white;
-    position: absolute;
-    right: 0;
-    margin: 20px;
-    padding: 20px;
-  }
-  
-  #adiv a {
-    color: white;
-    padding: 20px;
-    text-decoration: none;
-  }
+#menu {
+  height: 100px;
+}
 
-  #menuDiv{
-    width: 100%;
-  }
+#adiv {
+  background-attachment: fixed;
+  color: white;
+  position: absolute;
+  right: 0;
+  margin: 20px;
+  padding: 20px;
+}
+
+#adiv a {
+  color: white;
+  padding: 20px;
+  text-decoration: none;
+}
+
+#menuDiv {
+  width: 100%;
+}
