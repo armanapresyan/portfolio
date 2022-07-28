@@ -1,53 +1,47 @@
-body{
-    background-color: #787878;
-    display: flex;
-    flex-flow: column wrap;
-    align-items: center;
+body {
+  background-color: #787878;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
 }
 @import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
 
-.li{
-    color: white;
-    font-family: "Great Vibes",cursive;
-    font-size: 40px;
+.li {
+  color: white;
+  font-family: "Great Vibes", cursive;
+  font-size: 40px;
 }
 
-h4{
-    font-family:  "Great Vibes",cursive;
-    color: white;
-    font-size: 40px;
+h4 {
+  font-family: "Great Vibes", cursive;
+  color: white;
+  font-size: 40px;
 }
 
+nav {
+  position: sticky;
+  top: 0;
+}
 
+#menu {
+  height: 100px;
+}
 
-nav{
-    position: sticky;
-    top: 0;
-  }
-  
- 
-  
-  #menu {
-    height: 100px;
-   
-  
-  }
-  
-  #adiv {
-    background-attachment: fixed;
-    color: white;
-    position: absolute;
-    right: 0;
-    margin: 20px;
-    padding: 20px;
-  }
-  
-  #adiv a {
-    color: white;
-    padding: 20px;
-    text-decoration: none;
-  }
+#adiv {
+  background-attachment: fixed;
+  color: white;
+  position: absolute;
+  right: 0;
+  margin: 20px;
+  padding: 20px;
+}
 
-  #menuDiv{
-    width: 100%;
-  }
+#adiv a {
+  color: white;
+  padding: 20px;
+  text-decoration: none;
+}
+
+#menuDiv {
+  width: 100%;
+}
