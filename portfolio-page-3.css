@@ -16,3 +16,36 @@ body{
     color: white;
     text-decoration-line: none;
 }
+
+
+nav{
+    position: sticky;
+    top: 0;
+  }
+  
+ 
+  
+  #menu {
+    height: 100px;
+   
+  
+  }
+  
+  #adiv {
+    background-attachment: fixed;
+    color: white;
+    position: absolute;
+    right: 0;
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  #adiv a {
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+  }
+
+  #menuDiv{
+    width: 100%;
+  }

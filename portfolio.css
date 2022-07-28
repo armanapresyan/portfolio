@@ -9,11 +9,17 @@
     background-repeat: no-repeat;
     background-position: center;
   }
+
+  nav{
+    position: sticky;
+    top: 0;
+  }
   
+ 
   
   #menu {
     height: 100px;
-    position: relative;
+   
   
   }
   
